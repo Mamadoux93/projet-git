@@ -1,3 +1,1 @@
-## projet Git et GitHub
-participant:Mawloud diallo
-
+# projet-git
